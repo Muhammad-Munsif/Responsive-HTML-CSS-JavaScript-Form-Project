@@ -1,4 +1,3 @@
-<script>
     document.addEventListener("DOMContentLoaded", function () {
       const form = document.getElementById("registrationForm");
       const successMessage = document.querySelector(".success-message");
@@ -178,4 +177,4 @@
         });
       });
     });
-  </script>
+  
